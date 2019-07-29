@@ -1,5 +1,6 @@
 {
     "name": "aws-appsync-fork",
+    "version": "1",
     "private": true,
     "scripts": {
         "bootstrap": "lerna bootstrap"
